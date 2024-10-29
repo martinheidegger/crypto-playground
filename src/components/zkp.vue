@@ -134,7 +134,6 @@
 </template>
 
 <script>
-const asymmetric = require("../crypto-lib/asymmetric");
 const zkp = require('../crypto-lib/zkp')
 export default {
   name: "ZKPPage",

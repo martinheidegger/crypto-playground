@@ -66,9 +66,7 @@
       </div>
     </div>
     <div class="col-md-6">
-      <p>
-        <h5>Encourage me by giving this repo a <b>star</b>! :)</h5>
-      </p>
+      <p>Encourage me by giving this repo a <b>star</b>!</p>
       <div
         class="github-card"
         data-github="vishwas1/crypto"
