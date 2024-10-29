@@ -10,6 +10,7 @@
   <div class="row">
     <div class="col-md-6">
       <div class="blog">
+        <h6>A simple tool to play and learn basic concepts of cryptography!</h6>
         <ul>
           <li>
             <a
